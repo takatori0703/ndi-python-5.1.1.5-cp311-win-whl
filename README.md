@@ -12,7 +12,7 @@
 ### [Plan A] From a pre-built wheel file
 
 * install with pip
-  * `pip install <whl>`
+  * `pip install https://github.com/takatori0703/ndi-python-5.1.1.5-cp311-win-whl/raw/refs/heads/main/ndi_python-5.1.1.5-cp311-cp311-win_amd64.whl`
 * Build info
   * Build Environment
     * Windows 10
